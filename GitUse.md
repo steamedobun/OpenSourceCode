@@ -1,6 +1,6 @@
 # GitHub入门速通教程
 - 引用Author: Dr. Zhu 2021.11
-- 视觉Transformer课程
+- Aistudio 视觉Transformer课程
 
 ## 什么是Github？
 GitHub是一个提供版本控制和协作开发的代码托管平台，可以让你和其他人在任何地方一起开发项目。
